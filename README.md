@@ -30,7 +30,12 @@ Desde pequeño soy fan de la tecnología, pero mi pasión por el desarrollo web 
 ![WebSockets](https://img.shields.io/badge/WebSockets-0088CC?style=for-the-badge&logo=websocket&logoColor=white)  
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)  
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)  
-![Cloudinary](https://img.shields.io/badge/Cloudinary-F38020?style=for-the-badge&logo=cloudinary&logoColor=white)  
+![Cloudinary](https://img.shields.io/badge/Cloudinary-F38020?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FF5733?style=for-the-badge&logo=typeorm&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## 📌 Proyectos Destacados
 - 🏥 **[VetsForPets](https://github.com/EliasAdad/VetsForPets)** - Aplicación de gestión para veterinarias, mascotas y dueños de mascotas.
